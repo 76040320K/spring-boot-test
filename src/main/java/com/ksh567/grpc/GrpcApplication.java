@@ -1,13 +1,13 @@
-package com.ksh567.msa;
+package com.ksh567.grpc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MsaApplication {
+public class GrpcApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MsaApplication.class, args);
+		SpringApplication.run(GrpcApplication.class, args);
 	}
 
 }

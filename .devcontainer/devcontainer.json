@@ -1,5 +1,5 @@
 {
-    "name": "java-msa",
+    "name": "spring-boot-grpc",
     "appPort": 8080,
     "dockerFile": "Dockerfile",
     "settings": {
