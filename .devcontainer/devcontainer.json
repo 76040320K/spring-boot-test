@@ -26,6 +26,7 @@
         "shengchen.vscode-checkstyle",
         "pivotal.vscode-spring-boot",
         "vscjava.vscode-spring-boot-dashboard",
+        "pivotal.vscode-boot-dev-pack",
         "GabrielBB.vscode-lombok"
     ],
     "postCreateCommand": "java -version",
